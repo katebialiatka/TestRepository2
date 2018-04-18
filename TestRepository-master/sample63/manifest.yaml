@@ -1,0 +1,17 @@
+### YamlMime:Sample
+sample:
+- name: Using Azure APIs
+  path: /samples/api/azure
+  description: A sample that shows how to use Azure APIs.
+  generateZip: false
+  azureDeploy: /path/to/template.json
+  author: dend
+  languages:
+  - csharp
+  - fsharp
+  technologies:
+  - azure
+  extensions:
+  - someExtensionEntry:
+    - altEntry
+    - altContent
